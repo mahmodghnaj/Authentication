@@ -1,9 +1,9 @@
 
 
 
-## Description
-Node.js – JWT Authentication & Authorization example with JSONWebToken & Mongose
-User Registration, User Login and Authorization process.
+
+## Node.js – JWT Authentication & Authorization example with JSONWebToken & Mongose
+## User Registration, User Login and Authorization process.
 
 ## Installation
 

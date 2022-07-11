@@ -2,8 +2,8 @@
 
 
 ## Description
-
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Node.js – JWT Authentication & Authorization example with JSONWebToken & Mongose
+User Registration, User Login and Authorization process.
 
 ## Installation
 
